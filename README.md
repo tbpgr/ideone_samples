@@ -2,7 +2,7 @@
 ## Languages
 
 |Language|Reference|version|
-|:-------|:-----------|--|
+|:-------|:-----------|:--|
 |Ada|http://www.ada-auth.org/arm.html|gnat-4.6|
 |Assembler (gcc-4.8.1)|--|4.8.1|
 |Assembler (nasm-2.10.01)|--|2.10.01|
