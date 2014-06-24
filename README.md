@@ -58,7 +58,7 @@
 |Prolog (swi)|--|swipl 5.6.64|
 |Python|--|python 2.7.3|
 |Python 3|--|python-3.2.3|
-|R|--|R-2.11.1|
+|R|http://www.r-project.org/|R-2.11.1|
 |Ruby|https://www.ruby-lang.org/ja/|ruby-1.9.3|
 |Scala|--|scala-2.10.2|
 |Scheme (guile)|--|guile 1.8.5|
