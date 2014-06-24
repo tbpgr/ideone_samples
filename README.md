@@ -65,9 +65,9 @@
 |Smalltalk|--|gst 3.1|
 |SQL|--|sqlite3-3.7.3|
 |Tcl|--|tclsh 8.5.7|
-|Unlambda|--|unlambda-2.0.0|
+|Unlambda|http://www.madore.org/~david/programs/unlambda/|unlambda-2.0.0|
 |VB.NET|--|mono-2.4.2.3|
-|Whitespace|--|wspace 0.3|
+|Whitespace|http://compsoc.dur.ac.uk/whitespace/|wspace 0.3|
 
 ## Themes
 * hello world
