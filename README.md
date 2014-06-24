@@ -73,5 +73,6 @@
 * hello world
 
 ## Tools
-### ruby_tools/mk_lang_dirs.rb
-create ideone language directories.
+|Tool Name|Language|Memo|
+|:-------|:-----------|:--|
+|mk_lang_dirs.rb|Ruby ~>2.0|create ideone language directories.|
