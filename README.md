@@ -22,7 +22,7 @@
 |COBOL|http://www.opencobol.org/modules/bwiki/index.php?UserManual|open-cobol-1.0|
 |COBOL 85|http://tiny-cobol.sourceforge.net/|tinycobol-0.65.9|
 |Common Lisp (clisp)|http://www.lispworks.com/documentation/HyperSpec/Front/index.htm|clisp 2.47|
-|D (dmd)|http://www.gnu.org/software/dmd/manual/dmd.html|dmd-2.042|
+|D (dmd)|http://dlang.org/|dmd-2.042|
 |Erlang|http://www.erlang.org/doc/reference_manual/users_guide.html|erl-5.7.3|
 |F#|http://msdn.microsoft.com/ja-jp/library/dd233181.aspx|fsharp-2.0.0|
 |Factor|http://factorcode.org/|factor-0.93|
